@@ -12,7 +12,7 @@
 ## 📊 GitHub Stats  
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)
-![GitHub Snake](https://github.com/your-github-username/ChenChiShui/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/ChenChiShui/ChenChiShui/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
