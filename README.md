@@ -2,7 +2,7 @@
 
 🔭 **About Me | 关于我**  
 - 🚀 **Junior student majoring in software engineering at Jilin University.**  
-- 💻 **Skilled in Python, C++, Node.js, and more.**  
+- 💻 **Familiar with Python, C++, Node.js, and more.**  
 - 🌱 **Currently learning AI & Machine Learning.**  
 - 📫 **How to reach me: [walter_chen.bj@outlook.com](mailto:walter_chen.bj@outlook.com)**  
 
@@ -10,17 +10,17 @@
 
 🔭 **关于我 | About Me**  
 - 🚀 **吉林大学软件工程专业大三学生**  
-- 💻 **熟练使用 Python、C++、Node.js 等编程语言**  
+- 💻 **了解 Python、C++、Node.js 等编程语言**  
 - 🌱 **目前正在学习 AI & 机器学习**  
 - 📫 **联系我：[walter_chen.bj@outlook.com](mailto:walter_chen.bj@outlook.com)**
 ---
 
-## 🌎 GitHub Page  
+## 🌎 GitHub Page | 个人博客 
 🔗 [陈驰水-个人博客](https://ChenChiShui.github.io/)  
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats | GitHub 统计
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)  
 ![GitHub Snake](https://github.com/ChenChiShui/ChenChiShui/blob/output/github-contribution-grid-snake.svg)  
@@ -29,7 +29,7 @@
 </p>
 
 ---
-## 📫 Connect with Me  
+## 📫 Connect with Me | 其他联系方式
 
 <p align="center">
     <a href="https://leetcode.cn/u/walter_chen/" target="_blank">
