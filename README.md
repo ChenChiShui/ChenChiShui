@@ -11,8 +11,8 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ChenChiShui&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ChenChiShui&layout=compact&theme=radical)  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)
+![GitHub Snake](https://github.com/your-github-username/ChenChiShui/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
