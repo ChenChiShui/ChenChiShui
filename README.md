@@ -22,12 +22,14 @@
 
 ## 📫 Connect with Me  
 
-<div align="center">
-  
-[[LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=white)](https://leetcode.cn/u/walter_chen/)  
-[[CSDN](https://img.shields.io/badge/CSDN-DC143C?style=for-the-badge&logo=C&logoColor=white)](https://blog.csdn.net/m0_72113406?spm=1000.2115.3001.5343)  
-
-</div>
+<p align="center">
+    <a href="https://leetcode.cn/u/walter_chen/" target="_blank">
+        <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode">
+    </a>
+    <a href="https://blog.csdn.net/m0_72113406?spm=1000.2115.3001.5343" target="_blank">
+        <img src="https://img.shields.io/badge/CSDN-red?style=for-the-badge&logo=C&logoColor=white" alt="CSDN">
+    </a>
+</p>
 
 ---
 
