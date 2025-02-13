@@ -1,15 +1,22 @@
 # 👋 Hello! I'm walter_chen(陈驰水)  
 
-🔭 **About Me:**  
-- 🚀 Junior student majoring in software engineering at Jilin University。
-- 💻 Skilled in **Python, C++, Node.js, and more**  
-- 🌱 Currently learning **AI & Machine Learning**  
-- 📫 How to reach me: [walter_chen.bj@outlook.com](mailto:walter_chen.bj@outlook.com)  
+🔭 **About Me | 关于我**  
+- 🚀 **Junior student majoring in software engineering at Jilin University.**  
+- 💻 **Skilled in Python, C++, Node.js, and more.**  
+- 🌱 **Currently learning AI & Machine Learning.**  
+- 📫 **How to reach me: [walter_chen.bj@outlook.com](mailto:walter_chen.bj@outlook.com)**  
 
 ---
 
+🔭 **关于我 | About Me**  
+- 🚀 **吉林大学软件工程专业大三学生**  
+- 💻 **熟练使用 Python、C++、Node.js 等编程语言**  
+- 🌱 **目前正在学习 AI & 机器学习**  
+- 📫 **联系我：[walter_chen.bj@outlook.com](mailto:walter_chen.bj@outlook.com)**
+---
+
 ## 🌎 GitHub Page  
-🔗 [My GitHub Page](https://ChenChiShui.github.io/)  
+🔗 [陈驰水-个人博客](https://ChenChiShui.github.io/)  
 
 ---
 
