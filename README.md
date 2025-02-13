@@ -16,8 +16,11 @@
 
 ---
 
-## 📫 Connect with Me  
+## 📫 Connect with Me 
 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&logo=LeetCode&logoColor=white)](https://leetcode.cn/u/walter_chen/)  
+[![CSDN](https://img.shields.io/badge/-CSDN-red?style=flat&logo=C&logoColor=white)]((https://blog.csdn.net/m0_72113406?spm=1000.2115.3001.5343))  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=GitHub&logoColor=white)](https://github.com/ChenChiShui)  
 
 ---
 
