@@ -4,7 +4,7 @@
 - 🚀 **Junior student majoring in software engineering at Jilin University.**  
 - 💻 **Familiar with Python, C++, Node.js, and more.**  
 - 🌱 **Currently learning AI & Machine Learning.**  
-- 📫 **How to reach me: [walter_chen.bj@outlook.com](mailto:walter_chen.bj@outlook.com)**  
+- 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
 
 ---
 
@@ -12,7 +12,7 @@
 - 🚀 **吉林大学软件工程专业大三学生**  
 - 💻 **了解 Python、C++、Node.js 等编程语言**  
 - 🌱 **目前正在学习 AI & 机器学习**  
-- 📫 **联系我：[walter_chen.bj@outlook.com](mailto:walter_chen.bj@outlook.com)**
+- 📫 **联系我：[walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**
 ---
 
 ## 🌎 GitHub Page | 个人博客 
