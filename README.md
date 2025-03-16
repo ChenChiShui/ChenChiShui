@@ -1,4 +1,4 @@
-# 👋 Hello! I'm walter_chen | 你好！我是陈驰水  
+# 👋 Hello! I'm walter_chen (陈驰水)  
 
 🔭 **About Me | 关于我**  
 - 🚀 **Junior student majoring in software engineering at Jilin University.**  
