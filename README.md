@@ -4,7 +4,7 @@
 - 🚀 **Junior student majoring in software engineering at Jilin University.**  
 - 💻 **Familiar with Python, C++, Node.js, and more.**  
 - 🌱 **Currently learning AI & Machine Learning.**
-- 🎯 **Actively preparing for 2025 postgraduate recommendation while seeking suitable internship opportunities**
+- 🎯 **Actively preparing for 2025 postgraduate recommendation while seeking suitable internship opportunities.**
 - 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
 
 ---
