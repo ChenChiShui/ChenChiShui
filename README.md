@@ -30,7 +30,9 @@
     <img src="https://github-profile-trophy.vercel.app/?username=ChenChiShui&theme=darkhub&column=2&title=Commits,Experience" alt="GitHub Trophy">
 </p>
 
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ChenChiShui.ChenChiShui)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ChenChiShui&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=访问量&edge_flat=false" alt="Visitor Count"/>
+</p>
 
 ---
 ## 📫 Connect with Me | 其他联系方式
