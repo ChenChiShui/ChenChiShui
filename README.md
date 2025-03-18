@@ -12,7 +12,7 @@
 🔭 **关于我 | About Me**  
 - 🚀 **吉林大学软件工程专业大三学生**  
 - 💻 **了解 Python、C++、Node.js 等编程语言**  
-- 🌱 **目前正在学习 AI & 机器学习**
+- 🌱 **当前正深入学习 AI & 机器学习 的理论与实践**
 - 🎯 **目前正积极为 2025 年推免研究生做准备，同时也在寻找合适的企业实习机会**
 - 📫 **联系我：[walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**
 ---
