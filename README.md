@@ -24,9 +24,11 @@
 
 ## 📊 GitHub Stats | GitHub 统计
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)  
-![Snake animation](https://cdn.jsdelivr.net/gh/ChenChiShui/ChenChiShui/assets/github-contribution-grid-snake.svg)
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)  
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/ChenChiShui/ChenChiShui/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ChenChiShui&theme=darkhub&column=4&title=Commits,Stars,Experience,Followers" alt="GitHub Trophy" />
 </p>
