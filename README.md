@@ -31,9 +31,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ChenChiShui&theme=darkhub&column=4&title=Commits,Stars,Experience,Followers" alt="GitHub Trophy" />
 </p>
 
-<p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=ChenChiShui" alt="访客统计">
-</p>
+
 
 ---
 ## 📫 Connect with Me | 其他联系方式
@@ -46,6 +44,9 @@
         <img src="https://img.shields.io/badge/CSDN-red?style=for-the-badge&logo=C&logoColor=white" alt="CSDN">
     </a>
 </p>
+
 <p align="center">
-    ⭐️ From <a href="https://github.com/ChenChiShui">walter_chen</a>
+  <img src="https://img.shields.io/badge/⭐️_From-walter__chen-blue?style=flat-square&logo=github" alt="from walter_chen" />
+  &nbsp;
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=ChenChiShui&left_color=gray&right_color=blue" alt="访客统计" />
 </p>
