@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/71377ca0-c0af-4344-855c-ff32755f39e5)# 👋 Hello! I'm walter_chen (陈驰水)  
+# 👋 Hello! I'm walter_chen (陈驰水)  
 
 🔭 **About Me | 关于我**  
 - 🚀 **Junior student majoring in software engineering at Jilin University.**  
