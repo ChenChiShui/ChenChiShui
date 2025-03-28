@@ -1,4 +1,4 @@
-# 👋 Hello! I'm walter_chen (陈驰水)  
+![image](https://github.com/user-attachments/assets/71377ca0-c0af-4344-855c-ff32755f39e5)# 👋 Hello! I'm walter_chen (陈驰水)  
 
 🔭 **About Me | 关于我**  
 - 🚀 **Junior student majoring in software engineering at Jilin University.**  
@@ -26,8 +26,9 @@
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)  
 ![Snake animation](https://cdn.jsdelivr.net/gh/ChenChiShui/ChenChiShui/assets/github-contribution-grid-snake.svg)
+
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=ChenChiShui&theme=darkhub&column=2&title=Commits,Experience" alt="GitHub Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=ChenChiShui&theme=darkhub&column=4&title=Commits,Stars,Experience,Followers" alt="GitHub Trophy" />
 </p>
 
 <p align="center">
