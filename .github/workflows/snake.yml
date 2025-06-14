@@ -2,11 +2,11 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 */24 * * *"  # 每 24 小时运行一次
+    - cron: "0 0 */3 * *"  # 每 3 天的 00:00 UTC 运行
   workflow_dispatch:  # 允许手动触发
   push:
     branches:
-      - main  # 在 main 分支 push 时触发
+      - main
 
 jobs:
   generate:
