@@ -1,10 +1,10 @@
 # 👋 Hello! I'm walter_chen (陈驰水)  
 
 🔭 **About Me | 关于我**  
-- 🚀 **Junior student majoring in software engineering at Jilin University.**  
+- 🚀 **Senior student majoring in software engineering at Jilin University.**  
 - 💻 **Familiar with Python, C++, JS, and more.**  
 - 🌱 **Currently learning AI & Machine Learning.**
-- 🎯 **Actively preparing for 2025 postgraduate recommendation while seeking suitable internship opportunities.**
+- 🎯 **Already selected for postgraduate recommendation (2026) and actively seeking suitable internship opportunities in industry**
 - 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
 
 ---
