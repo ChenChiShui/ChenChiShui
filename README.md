@@ -29,9 +29,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/ChenChiShui/ChenChiShui/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ChenChiShui&theme=darkhub&column=4&title=Commits,Stars,Experience,Followers" alt="GitHub Trophy" />
-</p>
+
 
 
 
