@@ -29,9 +29,7 @@
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/ChenChiShui/ChenChiShui/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-<p align="center">
-[GitHub stars](https://img.shields.io/github/stars/ChenChiShui/ChenChiShui?style=social)
-</p>
+
 
 
 
