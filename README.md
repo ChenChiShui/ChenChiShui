@@ -26,7 +26,11 @@
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ChenChiShui&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://pfst.cf2.poecdn.net/base/image/790edb03ed34c71dbd1147229e6b2c6fdac613cdd88c8833f891cd84a15ef87b?pmaid=459248755" alt="GitHub Trophy" />
+  </a>
+</div>
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/ChenChiShui/ChenChiShui/assets/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
