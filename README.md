@@ -3,7 +3,7 @@
 🔭 **About Me | 关于我**  
 - 🚀 **Senior student majoring in software engineering at Jilin University.**  
 - 💻 **Familiar with Python, C++, JS, and more.**  
-- 🌱 **Currently learning AI & Machine Learning.**
+- 🌱 **Currently learning RL & LLM.**
 - 🎯 **Already selected for postgraduate recommendation (2026) and actively seeking suitable internship opportunities in industry**
 - 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
 
@@ -12,7 +12,7 @@
 🔭 **关于我 | About Me**  
 - 🚀 **吉林大学软件工程专业大四学生**  
 - 💻 **了解 Python、C++、JS 等编程语言**  
-- 🌱 **当前正深入学习 AI & ML**
+- 🌱 **当前正深入学习 RL & LMM**
 - 🎯 **目前已研零进组，同时也在寻找合适的企业实习机会**
 - 📫 **联系我：[walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**
 ---
