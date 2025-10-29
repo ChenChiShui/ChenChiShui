@@ -1,18 +1,16 @@
 # 👋 Hello! I'm walter_chen (陈驰水)  
 
 🔭 **About Me | 关于我**  
-- 🚀 **Senior student majoring in software engineering at Jilin University.**  
-- 💻 **Familiar with Python, C++, JS, and more.**  
-- 🌱 **Currently learning RL & LLM.**
+- 🚀 **Senior student at Jilin University, recommended for graduate study at Fudan University**
+- 🌱 **Currently learning Embodied AI & LLM.**
 - 🎯 **Already selected for postgraduate recommendation (2026) and actively seeking suitable internship opportunities in industry**
 - 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
 
 ---
 
 🔭 **关于我 | About Me**  
-- 🚀 **吉林大学软件工程专业大四学生**  
-- 💻 **了解 Python、C++、JS 等编程语言**  
-- 🌱 **当前正深入学习 RL & LLM**
+- 🚀 **吉林大学大四学生，推免至复旦大学**  
+- 🌱 **当前正深入学习 Embodied AI & LLM**
 - 🎯 **目前已研零进组，同时也在寻找合适的企业实习机会**
 - 📫 **联系我：[walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**
 ---
