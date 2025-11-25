@@ -2,7 +2,7 @@
 
 🔭 **About Me | 关于我**  
 - 🚀 **Senior student at Jilin University, recommended for graduate study at Fudan University**
-- 🌱 **Currently learning Embodied AI & LLM.**
+- 🌱 **Currently learning RL & LLM.**
 - 🎯 **Already selected for postgraduate recommendation (2026) and actively seeking suitable internship opportunities in industry**
 - 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
 
@@ -10,7 +10,7 @@
 
 🔭 **关于我 | About Me**  
 - 🚀 **吉林大学大四学生，推免至复旦大学**  
-- 🌱 **当前正深入学习 Embodied AI & LLM**
+- 🌱 **当前正深入学习 RL & LLM**
 - 🎯 **目前已研零进组，同时也在寻找合适的企业实习机会**
 - 📫 **联系我：[walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**
 ---
