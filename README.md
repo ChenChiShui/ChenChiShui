@@ -1,4 +1,4 @@
-# 👋 Hello! I'm walter_chen (陈驰水)  
+# 👋 Hello! I'm Chishui Chen (陈驰水)  
 
 🔭 **About Me | 关于我**  
 - 🚀 **Senior student at Jilin University, recommended for graduate study at Fudan University**
