@@ -2,8 +2,9 @@
 
 🔭 **About Me | 关于我**  
 - 🚀 **Senior student at Jilin University, recommended for graduate study at Fudan University**
-- 🌱 **Currently learning RL & LLM.**
-- 🎯 **Already selected for postgraduate recommendation (2026) and actively seeking suitable internship opportunities in industry**
+- 🌱 **Currently learning RL & LLM**
+- 📅 **Born in 2004, currently based in Shanghai / Beijing**
+- 🎯 **Currently interning at the Large Model Team, Meituan**
 - 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
 
 ---
@@ -11,8 +12,10 @@
 🔭 **关于我 | About Me**  
 - 🚀 **吉林大学大四学生，推免至复旦大学**  
 - 🌱 **当前正深入学习 RL & LLM**
-- 🎯 **目前已研零进组，同时也在寻找合适的企业实习机会**
+- 📅 **2004 年出生，目前在 上海 / 北京**
+- 🎯 **目前在 美团大模型算法 日常实习**
 - 📫 **联系我：[walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**
+
 ---
 
 ## 🌎 GitHub Page | 个人博客 
