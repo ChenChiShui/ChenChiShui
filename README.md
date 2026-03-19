@@ -13,7 +13,7 @@
 - 🚀 **吉林大学大四学生，推免至复旦大学**  
 - 🌱 **当前正深入学习 RL & LLM**
 - 📅 **2004 年出生，目前在 上海 / 北京**
-- 🎯 **目前在 美团大模型算法 日常实习**
+- 🎯 **目前在 某厂大模型算法实习（agentic RL 方向）**
 - 📫 **联系我：[walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**
 
 ---
