@@ -4,7 +4,7 @@
 - 🚀 **Senior student at Jilin University, recommended for graduate study at Fudan University**
 - 🌱 **Currently learning RL & LLM**
 - 📅 **Born in 2004, currently based in Shanghai / Beijing**
-- 🎯 **Currently interning at the Large Model Team, Meituan**
+- 🎯 **Currently an intern in the large model algorithm team (Agentic RL direction)**
 - 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
 
 ---
