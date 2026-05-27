@@ -3,16 +3,16 @@
 🔭 **About Me | 关于我**  
 - 🚀 **Senior student at Jilin University, recommended for graduate study at Fudan University**
 - 📅 **Born in 2004, currently based in Shanghai / Beijing**
-- 🎯 **Currently an intern in the large model algorithm team (Agentic RL direction)**
-- 📫 **How to reach me: [walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**  
+- 🎯 **Currently an intern in the large model algorithm team**
+- 📫 **How to reach me: [chishui.chen@outlook.com](chishui.chen@outlook.com)**  
 
 ---
 
 🔭 **关于我 | About Me**  
 - 🚀 **吉林大学大四学生，推免至复旦大学**  
 - 📅 **2004 年出生，目前在 上海 / 北京**
-- 🎯 **目前在 某厂大模型算法实习（agentic RL 方向）**
-- 📫 **联系我：[walter_chen.cs@outlook.com](mailto:walter_chen.cs@outlook.com)**
+- 🎯 **目前在 某厂大模型算法实习**
+- 📫 **联系我：[chishui.chen@outlook.com](chishui.chen@outlook.com)**
 
 ---
 
