@@ -1,18 +1,18 @@
 # 👋 Hello! I'm Chishui Chen
 
-🔭 **About Me | 关于我**  
+🔭 **About Me**  
 - 🎯 **Currently an intern in the large model algorithm team**
 - 📫 **How to reach me: [chishui.chen@outlook.com](chishui.chen@outlook.com)**  
 
 
 ---
 
-## 🌎 GitHub Page | 个人博客 
+## 🌎 GitHub Page 
 🔗 [个人博客](https://ChenChiShui.github.io/)  
 
 ---
 
-## 📊 GitHub Stats | GitHub 统计
+## 📊 GitHub Stats 
 
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)  
