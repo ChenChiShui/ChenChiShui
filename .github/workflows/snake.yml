@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 0 */3 * *"  # 每 3 天的 00:00 UTC 运行
+    - cron: "0 0 1 * *"  # 每月 1 日的 00:00 UTC 运行
   workflow_dispatch:  # 允许手动触发
   push:
     branches:
