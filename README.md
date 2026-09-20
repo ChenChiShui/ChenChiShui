@@ -7,15 +7,9 @@
 
 ---
 
-## 🌎 GitHub Page 
-🔗 [个人博客](https://ChenChiShui.github.io/)  
-
----
-
 ## 📊 GitHub Stats 
 
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ChenChiShui&theme=github-dark)  
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://pfst.cf2.poecdn.net/base/image/790edb03ed34c71dbd1147229e6b2c6fdac613cdd88c8833f891cd84a15ef87b?pmaid=459248755" alt="GitHub Trophy" />
